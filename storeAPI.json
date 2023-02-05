@@ -1,0 +1,56 @@
+{
+    "GET":{
+        "Request":{
+            "id" : "12345"
+        },
+        "Response":{
+            "data":{
+                "id":"uuid",
+                "name":"storeName",
+                "series":"id List",
+                "nil":"collectionID"
+            }
+        }
+    },
+    "POST":{
+        "Request":{
+            "name":"storeName",
+            "series":"id List",
+            "nil":"collectionID"
+        },
+        "Response":{
+            "id":"uuid",
+            "name":"storeName",
+            "series":"id List",
+            "nil":"collectionID"
+        }
+    },
+    "PUT":{
+        "Request":{
+            "id":"uuid",
+            "name":"storeName",
+            "series":"id List",
+            "nil":"collectionID"
+        },
+        "Response":{
+            "id":"uuid",
+            "name":"storeName",
+            "series":"id List",
+            "nil":"collectionID"
+        }
+    },
+    "DELETE":{
+        "Request":{
+            "id":"uuid",
+            "name":"storeName",
+            "series":"id List",
+            "nil":"collectionID"
+        },
+        "Response":{
+            "id":"uuid",
+            "name":"storeName",
+            "series":"id List",
+            "nil":"collectionID"
+        }
+    }
+}
